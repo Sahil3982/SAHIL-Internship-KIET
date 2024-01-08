@@ -2,9 +2,12 @@
     margin: 0px;
     padding: 0px;
 }
+body{
+    margin-top: 100px;
+}
 table,tr,td,th{
     border: 2px black solid;
 }
 th,td{
-    padding: 5px;
+    padding: 7px;
 }
