@@ -1,0 +1,53 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    margin: 2px;
+    border: 2px black solid;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    background: #678ed5;
+    
+}
+header>div{
+    margin: 20px;
+}
+.footer2{
+    display: flex;
+    justify-content: space-between;
+}
+#About{
+    margin: 10px;
+    padding: 50px;
+}
+#project{
+    padding: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+.project1{
+    
+    border: 2px solid black;
+
+}
+.project2{
+    border: 2px solid black;
+
+}
+
+ul{
+    display: flex;
+    justify-content: space-between;
+}
+
+#links{
+display: flex;
+justify-content: space-around;
+padding: 20px;
+}
