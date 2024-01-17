@@ -2,3 +2,8 @@
   align-items: center;
   color: rgb(52, 186, 186);
 }
+.myname{
+  margin: 100px;
+  color: blue;
+  background-color: aquamarine;
+}
